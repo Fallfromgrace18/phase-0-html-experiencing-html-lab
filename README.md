@@ -43,7 +43,6 @@ Below is a collection of plant names.
 Copy and paste the plants into your `my_list.txt` file.
 
 ```text
-"Monstera Deliciosa"
 "Fiddle Leaf Fig"
 "Pilea"
 "Golden Pothos"
@@ -65,7 +64,8 @@ items and that these items "go together" in a list. To add these "notes" we
 surround the _content_ with bits of _markup_, with bits of HTML.
 
 We will take the text content from our text file, paste it into a new HTML file
-and then we will add _markup_ so that a browser "sees" a list. Let's write an
+and then we will add _markup_ so that a browser "sees" a list. Let's write an"Monstera Deliciosa"
+
 HTML file!
 
 ### Text Inside an HTML File
